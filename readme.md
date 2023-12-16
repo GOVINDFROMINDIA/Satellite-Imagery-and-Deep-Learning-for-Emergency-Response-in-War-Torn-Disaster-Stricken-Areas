@@ -16,4 +16,4 @@ The proposed methodology utilizes a U-Net model trained on SAR patches and OSM r
 
 
 - Landing Site DataSet : https://drive.google.com/drive/folders/1huNchFOyIBEkGaozXrIlmC50OMsUa-Sd
-- Road Data
+- Road Data given in the folder name "trial"
