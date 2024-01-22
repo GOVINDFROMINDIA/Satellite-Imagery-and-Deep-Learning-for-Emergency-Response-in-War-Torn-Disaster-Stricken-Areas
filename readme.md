@@ -20,7 +20,7 @@ in disaster and conflict response, facilitating a seamless transition to clarity
 Segmentation
 
 ## Datasets & Sources
-**DeepGlobe Land Cover Classification Dataset**
+-**DeepGlobe Land Cover Classification Dataset**
   - [Dataset Link](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset)
 
 - **Toronto City Large-Scale 3D Indoor Spaces Dataset**
