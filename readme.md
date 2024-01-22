@@ -60,7 +60,6 @@ Segmentation
       note = { visited on 2024-01-23 },
     }
   ```
-
 ## Models & Methodology
 ### Helicopter Landing Zone Detection using YOLO V8
 
