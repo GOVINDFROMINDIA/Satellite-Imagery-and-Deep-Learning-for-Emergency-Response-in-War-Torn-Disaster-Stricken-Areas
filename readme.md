@@ -22,12 +22,44 @@ Segmentation
 ## Datasets & Sources
 - **DeepGlobe Land Cover Classification Dataset**
   - [Dataset Link](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset)
+    ```
+    @InProceedings{DeepGlobe18,
+     author = {Demir, Ilke and Koperski, Krzysztof and Lindenbaum, David and Pang, Guan and Huang, Jing and Basu,
+     Saikat and Hughes, Forest and Tuia, Devis and Raskar, Ramesh},
+     title = {DeepGlobe 2018: A Challenge to Parse the Earth Through Satellite Images},
+     booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+     month = {June},
+     year = {2018}
+    }
+    ```
 
 - **Toronto City Large-Scale 3D Indoor Spaces Dataset**
   - [Dataset Link](https://www.cs.toronto.edu/~vmnih/data/)
+    ```
+    @phdthesis{MnihThesis,
+    author = {Volodymyr Mnih},
+    title = {Machine Learning for Aerial Image Labeling},
+    school = {University of Toronto},
+    year = {2013}
+    }
+    ```
 
 - **Helicopter Landing Dataset**
   - [Dataset Link](https://universe.roboflow.com/govind-a-qfk4g/helicopter-landing)
+  ```
+   @misc{ helicopter-landing_dataset,
+    title = { Helicopter Landing Dataset },
+    type = { Open Source Dataset },
+    author = { Govind A },
+    howpublished = { \url{ https://universe.roboflow.com/govind-a-qfk4g/helicopter-landing } },
+    url = { https://universe.roboflow.com/govind-a-qfk4g/helicopter-landing },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2023 },
+    month = { dec },
+    note = { visited on 2024-01-23 },
+  }
+  ```
 
 ## Models & Methodology
 ### Helicopter Landing Zone Detection using YOLO V8
