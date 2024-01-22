@@ -37,28 +37,28 @@ Segmentation
   - [Dataset Link](https://www.cs.toronto.edu/~vmnih/data/)
     ```
     @phdthesis{MnihThesis,
-    author = {Volodymyr Mnih},
-    title = {Machine Learning for Aerial Image Labeling},
-    school = {University of Toronto},
-    year = {2013}
+     author = {Volodymyr Mnih},
+     title = {Machine Learning for Aerial Image Labeling},
+     school = {University of Toronto},
+     year = {2013}
     }
     ```
 
 - **Helicopter Landing Dataset**
   - [Dataset Link](https://universe.roboflow.com/govind-a-qfk4g/helicopter-landing)
-  ```
-   @misc{ helicopter-landing_dataset,
-    title = { Helicopter Landing Dataset },
-    type = { Open Source Dataset },
-    author = { Govind A },
-    howpublished = { \url{ https://universe.roboflow.com/govind-a-qfk4g/helicopter-landing } },
-    url = { https://universe.roboflow.com/govind-a-qfk4g/helicopter-landing },
-    journal = { Roboflow Universe },
-    publisher = { Roboflow },
-    year = { 2023 },
-    month = { dec },
-    note = { visited on 2024-01-23 },
-  }
+    ```
+     @misc{ helicopter-landing_dataset,
+      title = { Helicopter Landing Dataset },
+      type = { Open Source Dataset },
+      author = { Govind A },
+      howpublished = { \url{ https://universe.roboflow.com/govind-a-qfk4g/helicopter-landing } },
+      url = { https://universe.roboflow.com/govind-a-qfk4g/helicopter-landing },
+      journal = { Roboflow Universe },
+      publisher = { Roboflow },
+      year = { 2023 },
+      month = { dec },
+      note = { visited on 2024-01-23 },
+    }
   ```
 
 ## Models & Methodology
