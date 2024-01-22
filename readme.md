@@ -58,18 +58,3 @@ emergency response efforts and minimizing response times
 by enabling a robust clarification of any unfamiliar terrain
 
 
-### Road Mapping on Unfamiliar Terrains
-
-The proposed methodology utilizes a U-Net model trained on SAR patches and OSM road data masks. Soft Dice loss and Jaccard index are employed to address class imbalance. The model, demonstrated in challenging desert landscapes, showcases robustness and scalability using free Sentinel-1 data for cost-effective global road mapping.
-
-
-- Landing Site DataSet : https://drive.google.com/drive/folders/1huNchFOyIBEkGaozXrIlmC50OMsUa-Sd
-- Road Data given in the folder name "trial"
-
-@InProceedings{DeepGlobe18,
-  author = {Demir, Ilke and Koperski, Krzysztof and Lindenbaum, David and Pang, Guan and Huang, Jing and Basu, Saikat and Hughes, Forest and Tuia, Devis and Raskar, Ramesh},
-  title = {DeepGlobe 2018: A Challenge to Parse the Earth Through Satellite Images},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-  month = {June},
-  year = {2018}
-}
