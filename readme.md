@@ -67,7 +67,7 @@ The approach involves estimating aerial depth maps using YOLO on RGB images, lev
 
 ### Road Mapping on Unfamiliar Terrains using U-Net
 
-The proposed methodology utilizes a U-Net model trained on SAR patches and OSM road data masks. Soft Dice loss and Jaccard index are employed to address class imbalance. The model, demonstrated in challenging desert landscapes, showcases robustness and scalability using free Sentinel-1 data for cost-effective global road mapping.
+The proposed methodology utilizes a U-Net model trained on SAR patches and OSM road data masks. The DeepGlobe Road Extraction Dataset and the Massachusetts Roads Dataset were utilized for training the model. Soft Dice loss and Jaccard index are employed to address class imbalance. The model, demonstrated in challenging desert landscapes, showcases robustness and scalability using free Sentinel-1 data for cost-effective global road mapping.
 
 
 ## Results
