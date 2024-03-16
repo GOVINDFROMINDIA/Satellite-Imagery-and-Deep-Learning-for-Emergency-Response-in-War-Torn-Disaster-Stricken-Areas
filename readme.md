@@ -33,7 +33,7 @@ Segmentation
     }
     ```
 
-- **Toronto City Large-Scale 3D Indoor Spaces Dataset**
+- **Massachusetts Roads Dataset**
   - [Dataset Link](https://www.cs.toronto.edu/~vmnih/data/)
     ```
     @phdthesis{MnihThesis,
